@@ -16,20 +16,20 @@ Together with my son, we realized this setup could go beyond entertainment it co
 
 To solve this, I created a predefined list of videos and built a simple database of curated content tailored specifically to his needs. This includes:
 
-    films.txt     -> Free YouTube films ID's in his native language
-    books.txt     -> Free YouTube Audiobooks (also in his native language)
-    exercises.txt -> Guided exercises
-    travel.txt    -> Travel videos
-    meditation    -> Meditation sessions
-    relax.txt     -> Simple nature sounds: rain, ocean etc. 
+    bible.txt       -> Bible 
+    films.txt       -> Free YouTube films ID's in his native language
+    robots.txt      -> As a talented engineer, he loves DIY projects, electronics, robotics, solar tech, and EVs.
+    books.txt       -> Free YouTube Audiobooks (also in his native language)
+    exercises.txt   -> Guided exercises
+    travel.txt      -> Travel videos
+    meditation      -> Meditation sessions
+    relax.txt       -> Simple nature sounds: rain, ocean etc. 
 
 Technically, I created these playlists of YouTube videos outside of YouTube by compiling a folder-based database (DB) containing the IDs of preselected videos. This way, the content is directly accessible without relying on YouTube's recommendation algorithm. While this setup could eventually evolve into a structured database, for now, I'm following the KISS principle (Keep It Simple, Stupid) maintaining a straightforward, easy-to-manage system that just works.
 
 Currently, the system simply streams a random file from the curated list on a schedule. This approach helps keep things simple and quick to implement. In the future, I plan to add a memory feature that will track which videos have already been played and prioritize unplayed content. This will prevent the same content from appearing twice and ensure a more varied and engaging experience over time. For now, the random approach works well for quick deployment and testing.
 
-Looking ahead, this solution has the potential to serve broader applications beyond personal use. It could be adapted for restaurants, exhibition centers, schools, kids and parent controlled streaming, libraries, corporate events, receptions, and hotels - essentially any setting where scheduled content delivery could enhance the user experience.
-You said:
-replace and make better: Since
+Looking ahead, this solution has the potential to serve broader applications beyond personal use. It could be adapted for schools, kids and parent controlled streaming, clubs, restaurants, bars, exhibition centers, libraries, corporate events, receptions, and hotels - essentially any setting where scheduled content delivery could enhance the user experience.
 
 - [Dependencies](#dependencies)
 - [Honorable mentions](#honorable-mentions)
