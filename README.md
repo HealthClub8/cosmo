@@ -1,12 +1,12 @@
 # COSMO
 COSMO Project Overview
 
-### I've also written [COSMO](https://cosmo.yes.app) an audio book — a captivating and original puzzle book inspired by my dad. It's unlike any other book you've read before, blending mystery and emotion with a unique structure that keeps you guessing until the fascinating and unexpected ending.
-
-![Logo]https://cosmo.yes.app/poster_eng.jpg
-
 The COSMO project began after my son asked me to build a robot for his granddad, who is disabled. In the UK alone, there are over 3 million people with similar conditions, yet the market lacks accessible and effective products to meet their needs. Seeing this gap, we started an open-source project to develop a small, user-friendly robot designed specifically to help my dad.
 
+
+### I've also written [COSMO](https://cosmo.yes.app) an audio book — a captivating and original puzzle book inspired by my dad. It's unlike any other book you've read before, blending mystery and emotion with a unique structure that keeps you guessing until the fascinating and unexpected ending.
+
+![Logo](https://cosmo.yes.app/poster_eng.jpg)
 
 Currently, we have integrated a single core service called Streamer, which combines several key technologies:
 
@@ -53,3 +53,6 @@ None! this script is written in pure vanilla Python 3+.
  * [pychromecast](https://github.com/home-assistant-libs/pychromecast) Which had a lot of `URN`'s that could be re-used.
  * [casttube](https://github.com/ur1katz/casttube) Which had all the YouTube Web-API's to manage a YouTube lounge.
  * Google for making the [ProtoBuf](https://developers.google.com/protocol-buffers/docs/encoding) protocol very open and easy to deconstruct.
+
+![Logo](https://cosmo.yes.app/promotion_eng.jpg)
+![Logo](https://cosmo.yes.app/bonus_eng.jpg)
